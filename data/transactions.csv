@@ -1,0 +1,14 @@
+TxnID,UserID,Time,Amount,Merchant,City,Country,CardType
+1001,U001,10:00,500,Amazon,Delhi,India,Visa
+1002,U001,10:01,450,Amazon,Delhi,India,Visa
+1003,U002,11:15,85000,Apple Store,Mumbai,India,MasterCard
+1004,U003,02:10,420000,Jewellery,Delhi,India,Visa
+1005,U001,10:02,600,Amazon,Delhi,India,Visa
+1006,U001,10:03,700,Amazon,Delhi,India,Visa
+1007,U001,10:04,550,Amazon,Delhi,India,Visa
+1008,U004,23:58,950000,Crypto Exchange,Dubai,UAE,Visa
+1009,U005,10:10,400,Amazon,Delhi,India,Visa
+1010,U005,10:10,350,Amazon,Delhi,India,Visa
+1011,U005,10:10,500,Amazon,Delhi,India,Visa
+1012,U005,10:10,700,Amazon,Delhi,India,Visa
+1013,U005,10:10,600,Amazon,Delhi,India,Visa
